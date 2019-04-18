@@ -348,6 +348,29 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Lorem1",
+      "expertUserId": "Bob",
+      "subSourceType": "MYSQL",
+      "groupId": "Ipsum1",
+      "updatedOn": "1555316962000",
+      "data_Node": {
+        "value": {
+          "fileType": "Lorem1"
+        }
+      },
+      "listOfFieldMapping": [
+        {
+          "fieldMappingId": "dolor-1-sit",
+          "name": "Quisquam1",
+          "position": "1",
+          "fieldDataType": "DECIMAL",
+          "sampleRecords": [
+            "133.82163924100000000000"
+          ]
+        }
+      ]
     }
   ],
   "profile": {
