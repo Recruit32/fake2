@@ -1,10 +1,79 @@
 {
-  "Demo_Qxc_Zxc": {
-  },
-  "Healthcare": {
-  },
-  "Marvel_Superheroes": {
-  },
+  "Demo_Qxc_Zxc": [
+    {
+      "name": "Lorem1",
+      "expertUserId": "Bob",
+      "subSourceType": "MYSQL",
+      "groupId": "Ipsum1",
+      "updatedOn": "1555316962000",
+      "data_Node": {
+        "value": {
+          "fileType": "Lorem1"
+        }
+      },
+      "listOfFieldMapping": [
+        {
+          "fieldMappingId": "dolor-1-sit",
+          "name": "Quisquam1",
+          "position": "1",
+          "fieldDataType": "DECIMAL",
+          "sampleRecords": [
+            "133.82163924100000000000"
+          ]
+        }
+      ]
+    }
+  ],
+  "Healthcare": [
+     {
+      "name": "Lorem1",
+      "expertUserId": "Bob",
+      "subSourceType": "MYSQL",
+      "groupId": "Ipsum1",
+      "updatedOn": "1555316962000",
+      "data_Node": {
+        "value": {
+          "fileType": "Lorem1"
+        }
+      },
+      "listOfFieldMapping": [
+        {
+          "fieldMappingId": "dolor-1-sit",
+          "name": "Quisquam1",
+          "position": "1",
+          "fieldDataType": "DECIMAL",
+          "sampleRecords": [
+            "133.82163924100000000000"
+          ]
+        }
+      ]
+    }
+  ],
+  "Marvel_Superheroes": [
+    {
+      "name": "Lorem1",
+      "expertUserId": "Bob",
+      "subSourceType": "MYSQL",
+      "groupId": "Ipsum1",
+      "updatedOn": "1555316962000",
+      "data_Node": {
+        "value": {
+          "fileType": "Lorem1"
+        }
+      },
+      "listOfFieldMapping": [
+        {
+          "fieldMappingId": "dolor-1-sit",
+          "name": "Quisquam1",
+          "position": "1",
+          "fieldDataType": "DECIMAL",
+          "sampleRecords": [
+            "133.82163924100000000000"
+          ]
+        }
+      ]
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
